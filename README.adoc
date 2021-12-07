@@ -11,6 +11,6 @@ While there are many ways to use AsciiDoc, I prefer a WYSIWYG style when I can g
 
 . brew install intellij-idea-ce
 . install AsciiDoc plug-in in IntelliJ
-. git clone git@github.com:timborn/hamster-handbook.git FIXME
+. git clone git@github.com:timborn/VX-6R_notes.git
 . you edit and generate pdf/html from within IntelliJ
 
