@@ -1,0 +1,16 @@
+= VX-6R Notes
+
+My notes regarding use of Yaesu VX-6R handheld (ham) radio.
+
+== Installation
+
+I use a mac.
+Adjust accordingly.
+At bottom of the stack is AsciiDoc, a delightful markup language.
+While there are many ways to use AsciiDoc, I prefer a WYSIWYG style when I can get it, and IntelliJ IDEA Community Edition has the plug-ins to make this fully functional (for free!).
+
+. brew install intellij-idea-ce
+. install AsciiDoc plug-in in IntelliJ
+. git clone git@github.com:timborn/hamster-handbook.git FIXME
+. you edit and generate pdf/html from within IntelliJ
+
